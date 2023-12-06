@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\Questão1 slide 5\Questão1 slide 5\bin\Debug\Questão1 slide 5.exe.config
+C:\Users\ADMIN\source\repos\Questão1 slide 5\Questão1 slide 5\bin\Debug\Questão1 slide 5.exe
+C:\Users\ADMIN\source\repos\Questão1 slide 5\Questão1 slide 5\bin\Debug\Questão1 slide 5.pdb
+C:\Users\ADMIN\source\repos\Questão1 slide 5\Questão1 slide 5\obj\Debug\Questão1 slide 5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Questão1 slide 5\Questão1 slide 5\obj\Debug\Questão1 slide 5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Questão1 slide 5\Questão1 slide 5\obj\Debug\Questão1 slide 5.exe
+C:\Users\ADMIN\source\repos\Questão1 slide 5\Questão1 slide 5\obj\Debug\Questão1 slide 5.pdb
