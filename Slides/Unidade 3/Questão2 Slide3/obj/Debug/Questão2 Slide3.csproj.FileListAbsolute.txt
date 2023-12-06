@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\Questão2 Slide3\Questão2 Slide3\obj\Debug\Questão2 Slide3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Questão2 Slide3\Questão2 Slide3\obj\Debug\Questão2 Slide3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Questão2 Slide3\Questão2 Slide3\bin\Debug\Questão2 Slide3.exe.config
+C:\Users\ADMIN\source\repos\Questão2 Slide3\Questão2 Slide3\bin\Debug\Questão2 Slide3.exe
+C:\Users\ADMIN\source\repos\Questão2 Slide3\Questão2 Slide3\bin\Debug\Questão2 Slide3.pdb
+C:\Users\ADMIN\source\repos\Questão2 Slide3\Questão2 Slide3\obj\Debug\Questão2 Slide3.exe
+C:\Users\ADMIN\source\repos\Questão2 Slide3\Questão2 Slide3\obj\Debug\Questão2 Slide3.pdb
